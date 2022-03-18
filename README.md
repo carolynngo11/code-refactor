@@ -15,4 +15,4 @@
 	* The (.)content & (.)benefits class is structured in the same order for both HTML and CSS
 * Grouped the (.)content's & (.) benefits' div classes, images, and headers in the CSS file
 
-Deployment Application Link:
+Deployment Application Link: (https://carolynngo11.github.io/code-refactor/)
