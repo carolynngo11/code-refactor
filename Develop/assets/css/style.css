@@ -58,13 +58,14 @@ a {
 p {
     font-size: 16px;
 }
-/* Switched (.)content class from line 72 to line 62 to follow HTML structure */
+/* Switched (.)content class from line 72 to line 63 to follow HTML structure */
+/* Moved the (.)content children with its parent */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* Moved the (.)content children with its parent */
+/* Grouped the (.)content div classes */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
