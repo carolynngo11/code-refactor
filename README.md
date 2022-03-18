@@ -1,4 +1,7 @@
-# HTML, CSS, and Github: Code Refactoring
+# **HTML, CSS, and Github: Code Refactoring**
+
+## Purpose of the Homework:
+A website's code is given that requires for changes to be made that would not change the webite's layout, formatting, and/or behavior. Essentially, it asks to clean the code. We remove and modify unnecessary elements which makes it easier for those who wants to view the code.
 
 ## Changes/Edits That Were Made:
 
@@ -15,4 +18,4 @@
 	* The (.)content & (.)benefits class is structured in the same order for both HTML and CSS
 * Grouped the (.)content's & (.) benefits' div classes, images, and headers in the CSS file
 
-Deployment Application Link: https://carolynngo11.github.io/code-refactor/
+**Deployment Application Link:** https://carolynngo11.github.io/code-refactor/
